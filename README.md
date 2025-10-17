@@ -18,7 +18,7 @@ You must use git repository for the work on the project, making frequent enough 
 that the project group (and course staff) can follow the progress.
 
 The completed project work will be demonstrated to the group's advisor at a demo session. 
-The final demonstrations are arranged on week 50. After the final demonstrations project group 
+The final demonstrations are arranged on 27.03.26. After the final demonstrations project group 
 evaluates another project, and self-evaluates own project. In addition, project members will 
 give a confidential individual assessment of each group member
 
