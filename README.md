@@ -46,9 +46,11 @@ preferably at a regular weekly time. In the meeting the group updates:
 > Everyone may not be able to participate to all meetings, but at least a couple of members should be present in each meeting. 
 > Regular absence from meetings will affect in individual evaluation.
 
-# Source code documentation
+# Source code Documentation and QA/Testing Report
 It is strongly recommended to use Doxygen to document your source code.
 Please go over the *Project Guidelines* for details.
+ 
+The software documentation and the testing report must both be submitted by the project deadline.
 
 # TODOs (Date)
 You can create a list of TODOs in this file.
