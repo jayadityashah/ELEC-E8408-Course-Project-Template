@@ -17,9 +17,8 @@ See readme.md files in each folder.
 You must use git repository for the work on the project, making frequent enough commits so 
 that the project group (and course staff) can follow the progress.
 
-The completed project work will be demonstrated to the group's advisor at a demo session. 
-The final demonstrations are arranged on 27.03.26. After the final demonstrations project group 
-evaluates another project, and self-evaluates own project. In addition, project members will 
+The completed project work will be demonstrated at a demo session. 
+The final demonstrations are arranged on 27.03.26. In addition, project members will 
 give a confidential individual assessment of each group member
 
 The course staff should be able to easily compile the project work using makefile and related 
