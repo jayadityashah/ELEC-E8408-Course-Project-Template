@@ -9,6 +9,11 @@ You can use Markdown language to render it as formatted **HTML** file.
 - Member 3
 - Member 4
 
+Please add also as contributors to the project the course staff (all 4 of us!):
+@jayadityashah @blasty3 @azafar46123 @dheeraj1856
+
+you are then recommeneded to the make the repository private.
+
 # Repository organization
 Your project implementation should follow the skelaton organization in this repository.
 See readme.md files in each folder.
