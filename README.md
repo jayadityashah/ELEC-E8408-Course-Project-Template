@@ -26,9 +26,7 @@ The course staff should be able to easily compile the project work using makefil
 instructions provided in the git repository. The final output should be in the **master branch** of the git repository.
 
 # Working practices
-Each project group is assigned an advisor from the project teaching personnel. 
-There will be a dedicated Teams channel for each project topic to facilitate discussion between 
-the groups in the same topic and the advisor. 
+There is a help channel for the project to facilitate discussion between the groups in the same topic and the TA’s to ask for help - the TA’s can help with concepts but cannot help solve technical problems such as problems with libraries.
 
 **The group should meet weekly.** The weekly meeting does not need to be long if there are no special issues 
 to discuss, and can be taken remotely as voice/video chat on the group Teams channel (or Zoom or other similar tool), 
